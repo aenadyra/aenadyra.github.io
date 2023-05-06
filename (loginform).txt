@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+ <title>Login</title>
+
+<style>
+	table.center{
+	margin-left:auto;
+	margin-right:auto;
+	}
+	p{ text-align:center;
+	}
+	body { background-image :url(https://storage.googleapis.com/support-kms-prod/K5fiYsgZgjWuKmJ61goXBgaZ7o46y2AI7XSP);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+</style>
+</head>
